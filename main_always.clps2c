@@ -1,0 +1,3 @@
+ASM_START 0x00421C18
+    sw $v0, 0x3c($s0) // Save destiny in current location to skip animation
+ASM_END

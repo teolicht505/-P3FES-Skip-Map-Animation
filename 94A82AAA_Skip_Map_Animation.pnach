@@ -1,0 +1,15 @@
+patch=1,EE,20421BF4,extended,08275480
+patch=1,EE,20421BF8,extended,00000000
+patch=1,EE,209D5200,extended,0C108ED4
+patch=1,EE,209D5204,extended,00000000
+patch=1,EE,209D5208,extended,27BDFFF0
+patch=1,EE,209D520C,extended,FFA20000
+patch=1,EE,209D5210,extended,24042708
+patch=1,EE,209D5214,extended,0C0E5474
+patch=1,EE,209D5218,extended,00000000
+patch=1,EE,209D521C,extended,10400002
+patch=1,EE,209D5220,extended,DFA20000
+patch=1,EE,209D5224,extended,AE02003C
+patch=1,EE,209D5228,extended,27BD0010
+patch=1,EE,209D522C,extended,081086FF
+patch=1,EE,209D5230,extended,00000000
